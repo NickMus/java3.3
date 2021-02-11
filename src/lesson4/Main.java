@@ -4,6 +4,7 @@ public class Main {
     static volatile int num = 1;
     static int count = 5;
 
+
     public static void main(String[] args) {
 
         Object mon = new Object();
